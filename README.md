@@ -4,10 +4,6 @@ keyboard-maestro
 Macros I've made for use with Keyboard Maestro
 
 
-# Various macros I've made for Keyboard Maestro
-
-
-
 ## Finder Macros ##
 
 ### [copy-to-clipboard](https://github.com/tjluoma/keyboard-maestro/blob/master/finder/copy-to-clipboard/copy-to-clipboard.kmmacros)
