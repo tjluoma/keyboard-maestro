@@ -24,7 +24,7 @@ And here's the AppleScript for those who may just want to snag it:
 		end try
 	end if
 
-## What does this do?
+## “What does this do?”
 
 It automatically saves all of my open text documents:
 
