@@ -23,4 +23,5 @@ I didn’t delete the standard shortcut. Apparently Keyboard Maestro intercepts 
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
-It’s very simple, but if you want to use my Keyboard Maestro macro, you can [get it here](finder-cmd-d-for-desktop.kmmacros).
+It’s very simple, but if you want to use my Keyboard Maestro macro, you can [see it here](finder-cmd-d-for-desktop.kmmacros) or [right-click-save-as this link](https://raw.githubusercontent.com/tjluoma/keyboard-maestro/master/finder/cmd-d-for-desktop/finder-cmd-d-for-desktop.kmmacros).
+
