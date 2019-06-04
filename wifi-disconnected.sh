@@ -32,7 +32,8 @@ sleep 10
 	# The other advantage is that it will give empty output, whereas `networksetup` does not use
 	# stderr properly when there is no SSID.
 	#
-SSID=$(/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I 2>/dev/null | awk -F': ' '/ SSID/{print $NF}')
+SSID=$(/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I 2>/dev/null \
+		| awk -F': ' '/ SSID/{print $NF}')
 
 if [[ "$SSID" == "" ]]
 then
